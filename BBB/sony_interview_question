@@ -1,0 +1,24 @@
+	SONY Interview Question
+1. Tell me about something you have mention in resume.
+
+2. Diff between NFS & SD card booting.
+
+3. How to install package.
+
+4. How to remove package.
+
+5. what is debain package & use of them.
+
+6. what happens when you boot your board (steps have to mention).
+
+7. what is basic booting steps.
+
+8. waht are the basic testing step to test any package.
+
+9. How you will cross compile the for target board(steps by step).
+
+10. How to select which toolchain is required.
+
+11. what the tool chain contains in it.
+   
+12. how to know which command came from which package.
